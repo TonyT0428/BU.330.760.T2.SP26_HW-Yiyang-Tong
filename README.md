@@ -19,6 +19,14 @@
 当前仓库历史较短，完整 `git log` 如下：
 
 ```
+commit a0e388a76fa5fa452a5519f75b8f4ccf498a924e
+Author: Tequila <49821966+TonyT0428@users.noreply.github.com>
+Date:   Mon Mar 30 15:24:36 2026 -0400
+
+    Add README with repo purpose and Git notes
+    
+    Made-with: Cursor
+
 commit 8646cff0f781d9671bc3dc486b7f985c4cbbb7c3
 Author: Tequila <49821966+TonyT0428@users.noreply.github.com>
 Date:   Mon Mar 30 15:22:53 2026 -0400
@@ -28,4 +36,7 @@ Date:   Mon Mar 30 15:22:53 2026 -0400
     Made-with: Cursor
 ```
 
-一行摘要：`8646cff` — **Add GAI homework markdown files**（初始提交：作业相关 Markdown 与 `.gitignore`）。
+**一行摘要**
+
+- `a0e388a` — **Add README with repo purpose and Git notes**
+- `8646cff` — **Add GAI homework markdown files**（初始提交：作业相关 Markdown 与 `.gitignore`）
